@@ -23,7 +23,7 @@
 <img src="https://i.ibb.co/JRyjrQq/material-ui.png"/>
 </p>
 <p align="center">
-<img src="https://i.ibb.co/R7cSpjV/node.jpg"/>
+<img src="https://i.ibb.co/s6XgVwk/nodejs-1-logo.png"/>
 <img src="https://i.ibb.co/Lnj4Hgh/express-js.png"/>
 <img src="https://i.ibb.co/dGGSWMv/firebase.png"/>
 <img src="https://i.ibb.co/HVdGRgp/mongodb.png"/>
