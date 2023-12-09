@@ -2,13 +2,14 @@
 <img src="https://i.postimg.cc/0QqykTXX/headerbg.png" />
 </a>
 
+Hello, I'm Rezoan Sarwar, a MERN stack developer with 1 year of code Learning experience. I find joy in creating efficient and elegant solutions to complex problems. Currently, I'm exploring the realms of Material UI, Mongoose, and Next.js to enhance my skills and build better web applications. I'm actively seeking collaboration on exciting open source projects.
+
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Rezoan93" alt="GitHub Streak"" />
 </p>
-
 
 ## :computer: Technologies that I know
 
@@ -29,22 +30,6 @@
 <img width="44" height="44" src="https://i.ibb.co/K5rQpg7/stripe.webp"/>
 <img width="44" height="44" src="https://i.ibb.co/gWj8fFy/vercel.png"/>
 </p>
-
-
-
-
-
-## :eyes: Current overview
-
-<div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
-</div>
-
-### 🔭 I’m working - In Programming Hero. 
-### 🌱 I’m exploring - Advance motion graphics for web. 
-### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying - To help people learn web development. 
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
 
 
 <br />
