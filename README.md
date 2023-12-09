@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/rezoansarwar">
-<img src="https://i.ibb.co/ZS32NG6/Creative-Modern-Business-Card.png" />
+<img src="https://i.postimg.cc/0QqykTXX/headerbg.png" />
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
