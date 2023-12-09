@@ -6,7 +6,7 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=REZOAN93&theme=dark" />
+  <img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=REZOAN93&theme=dark" />
 </p>
 
 
