@@ -1,5 +1,5 @@
-<a href="https://www.facebook.com/mirhussainmurtaza/">
-<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
+<a href="https://www.linkedin.com/in/rezoansarwar">
+<img src="https://i.ibb.co/ZS32NG6/Creative-Modern-Business-Card.png" />
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
