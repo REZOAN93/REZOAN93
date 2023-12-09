@@ -6,7 +6,7 @@
 
 <br />
 <p align="center">
-  <img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=REZOAN93&theme=dark" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Rezoan93" alt="GitHub Streak"" />
 </p>
 
 
