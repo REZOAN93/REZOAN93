@@ -8,7 +8,7 @@
 <p align="center">
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=REZOAN93&theme=dark" />
 </p>
-<p align="center">
+<p  align="center" style="display: flex; gap: 3px; justify-content: center;"">
   <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=REZOAN93&theme=dark" />
   <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=REZOAN93&theme=dark" />
 </p>
