@@ -1,8 +1,10 @@
 <a href="https://www.linkedin.com/in/rezoansarwar">
 <img src="https://i.postimg.cc/0QqykTXX/headerbg.png" />
 </a>
+<br />
 
-Hello, I'm Rezoan Sarwar, a MERN stack developer with 1 year of code Learning experience. I find joy in creating efficient and elegant solutions to complex problems. Currently, I'm exploring the realms of Material UI, Mongoose, and Next.js to enhance my skills and build better web applications. I'm actively seeking collaboration on exciting open source projects.
+### Hello, I'm Rezoan Sarwar, a MERN stack developer with 1 year of code Learning experience. I find joy in creating efficient and elegant solutions to complex problems. Currently, I'm exploring the realms of Material UI, Mongoose, and Next.js to enhance my skills and build better web applications. I'm actively seeking collaboration on exciting open source projects.
+<br />
 
 ## :chart_with_upwards_trend: Current Stats
 
