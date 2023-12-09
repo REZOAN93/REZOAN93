@@ -12,27 +12,25 @@
 ## :computer: Technologies that I know
 
 <br>
-<p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/python.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/c.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/cpp.png"/>
+<p align="center"> 
+<img src="https://i.ibb.co/ZmB8ykB/html.png"/>
+<img src="https://i.ibb.co/sHh2566/css.png"/>
+<img src="https://i.ibb.co/vkrBqwM/java.png"/>
+<img src="https://i.ibb.co/yq5YwjD/Bootstrap-logo-svg.png"/>
+<img src="https://i.ibb.co/4MbpS8F/React-icon-svg.png"/>
+<img src="https://i.ibb.co/qs7ncgr/Vitejs-logo-svg.png"/>
+<img src="https://i.ibb.co/pPqrp75/Tailwind-CSS-Logo-svg.png"/>
+<img src="https://i.ibb.co/JRyjrQq/material-ui.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/sass.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+<img src="https://i.ibb.co/R7cSpjV/node.jpg"/>
+<img src="https://i.ibb.co/Lnj4Hgh/express-js.png"/>
+<img src="https://i.ibb.co/dGGSWMv/firebase.png"/>
+<img src="https://i.ibb.co/HVdGRgp/mongodb.png"/>
+<img src="https://i.ibb.co/K5rQpg7/stripe.webp"/>
+<img src="https://i.ibb.co/gWj8fFy/vercel.png"/>
 </p>
-<p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
-</p><br/>
+
 
 ## :eyes: Current overview
 
