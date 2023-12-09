@@ -21,15 +21,16 @@
 <img width="24" height="24" src="https://i.ibb.co/qs7ncgr/Vitejs-logo-svg.png"/>
 <img width="24" height="24" src="https://i.ibb.co/pPqrp75/Tailwind-CSS-Logo-svg.png"/>
 <img width="24" height="24" src="https://i.ibb.co/JRyjrQq/material-ui.png"/>
-</p>
-<p align="center">
-<img width="24" height="24" src="https://i.ibb.co/s6XgVwk/nodejs-1-logo.png"/>
+  <img width="24" height="24" src="https://i.ibb.co/s6XgVwk/nodejs-1-logo.png"/>
 <img width="24" height="24" src="https://i.ibb.co/Lnj4Hgh/express-js.png"/>
 <img width="24" height="24" src="https://i.ibb.co/dGGSWMv/firebase.png"/>
 <img width="24" height="24" src="https://i.ibb.co/HVdGRgp/mongodb.png"/>
 <img width="24" height="24" src="https://i.ibb.co/K5rQpg7/stripe.webp"/>
 <img width="24" height="24" src="https://i.ibb.co/gWj8fFy/vercel.png"/>
 </p>
+
+
+
 
 
 ## :eyes: Current overview
