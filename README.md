@@ -19,7 +19,7 @@
 <img width="24" height="24" src="https://i.ibb.co/yq5YwjD/Bootstrap-logo-svg.png"/>
 <img width="24" height="24" src="https://i.ibb.co/4MbpS8F/React-icon-svg.png"/>
 <img width="24" height="24" src="https://i.ibb.co/qs7ncgr/Vitejs-logo-svg.png"/>
-<img src="https://i.ibb.co/pPqrp75/Tailwind-CSS-Logo-svg.png"/>
+<img width="24" height="24" src="https://i.ibb.co/pPqrp75/Tailwind-CSS-Logo-svg.png"/>
 <img width="24" height="24" src="https://i.ibb.co/JRyjrQq/material-ui.png"/>
 </p>
 <p align="center">
